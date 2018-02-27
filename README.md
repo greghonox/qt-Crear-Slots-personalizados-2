@@ -1,0 +1,1 @@
+# qt-Crear-Slots-personalizados-2
